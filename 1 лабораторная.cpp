@@ -47,4 +47,6 @@ int main()
     
     cout << "Ответ = " << res;
 }
+DOBAVIL PRIKOL
+
 
